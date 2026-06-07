@@ -4,3 +4,4 @@ on:
     types: [opened]
 permissions:
   pull-requests: write
+# Welcome workflow for Hello GitHub Actions course
